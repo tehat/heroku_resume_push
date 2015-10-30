@@ -1,0 +1,77 @@
+
+
+.header {
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 5px;
+	padding-right: 5px;	
+	background-color: #99FFFF;
+}
+
+.header h1 {
+	font-family: Quatttrocento;
+	color: #990033;
+	font-size: 36px;
+}
+
+.header p {
+	color: #990033;
+	font-family: Source Sans Pro;
+	font-size: 14px; 
+}
+
+.nav {
+	background-color: #00CC99;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 5px;
+	padding-right: 5px;
+	transition: all 0.5s ease-in-out;
+}
+.nav: hover {
+	background-color: #FF8000;
+	color: #990033;
+}
+
+
+.main {
+	color: #660000;
+	font-family: Source Sans Pro;
+	font-size: 14px;
+	background-color: #99FFFF;
+}
+
+.main h4 {
+	color: #660000;
+	font-family: Quattrocento;
+}
+.main p {
+	color: #660000;
+	font-family: Source Sans Pro;
+	font-size: 14px:
+}
+
+.main a {
+	color: blue;
+	font-family: Source Sans Pro;
+	font-size: 14px:
+}
+
+.main h3 {
+	color: #990033;
+	font-family: Quattrocento;
+	font-size: 16px;
+}
+
+.education {
+	padding-top:1px;
+	padding-bottom: 1px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.education {
+	color: #660000;
+	font-family: Quattrocento;
+	font-size: 14px;
+}
